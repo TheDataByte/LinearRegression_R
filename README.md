@@ -26,11 +26,11 @@ Linear regression can help you capture the general trend of your data, but if th
 
 ![Graph_2022_YTD](Images/R_Graph_TSLA_2022_YTD.PNG) 
 
-Sometimes, you may be able to find a subset in your dataset that may still exhibit strongly linear characteristics, like Tesla stock's closing prices between X - Y 2022.
+Sometimes, you may be able to find a subset in your dataset that may still exhibit strongly linear characteristics, like Tesla stock's closing prices between March 14th and April 1st, 2022. It's an interesting observation, but if you told anyone you were trading off a linear model, they'd probably think you were crazy! 
 
 ![LM_Summary](Images/R_Graph_LM_summary.PNG)
 
-(add summary graph)
+![Graph_2022_YTD](Images/R_Graph_TSLA_2022_subset.png) 
 
 # Dependencies
 
@@ -43,4 +43,4 @@ It is easy to find sources online to learn more about linear regression, here ar
 [lm: Fitting Linear Models](https://www.rdocumentation.org/packages/stats/versions/3.6.2/topics/lm)
 
 # More?
-If you want to hear more, check out my [Hello, World!](https://www.youtube.com/watch?v=MrEkwt-wZ5w) video on YouTube and subscribe! I'm constantly working on new content :) 
+If you want to hear more from me, check out my [Hello, World!](https://www.youtube.com/watch?v=MrEkwt-wZ5w) video on YouTube and subscribe! I'm constantly working on new content :) 

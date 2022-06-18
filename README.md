@@ -10,13 +10,17 @@ Check out (my first video) to hear more about these topics:
 
 # Mathematics
 
-In my YouTube video, I give a short mathematical explanation of linear regression trendlines are calculated. The R-squared value (the coefficient of determination) helps you determine if your data is exhibiting linear behavior or not. R-squared values range between 0 and 1, with 1 indicating a perfect linear trend. Values beteween 0.7 and 1 indicate that your data has a linear trend. You probably don't want to be using any linear trendlines with R-squared values less than 0.7 to make predictions. 
+In my YouTube video, I give a short mathematical explanation of linear regression trendlines are calculated.
+
+## R-squared value 
+
+The R-squared value (the coefficient of determination) helps you determine if your data is exhibiting linear behavior or not. R-squared values range between 0 and 1, with 1 indicating a perfect linear trend. Values beteween 0.7 and 1 indicate that your data has a linear trend. You probably don't want to be using any linear trendlines with R-squared values less than 0.7 to make predictions. 
 
 # Code
 
 Linear regression in R is easy using the `lm()` function.
 
-```R
+```
 linearmodel <- lm(y ~ x)
 ```
 

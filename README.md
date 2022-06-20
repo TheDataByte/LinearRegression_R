@@ -26,7 +26,7 @@ linearmodel <- lm(y ~ x)
 
 Calling `summary()` will give you a description of your model. 
  
-Linear regression can help you capture the general trend of your data, but if the R-squared values is less than 0.7, it's not going to be very much good for making predictions.
+Linear regression can help you capture the general trend of your data, but if the r<sup>2</sup> value is less than 0.7, it's not going to be very much good for making predictions.
 
 ![Graph_2022_YTD](Images/R_Graph_TSLA_2022_YTD.PNG) 
 
